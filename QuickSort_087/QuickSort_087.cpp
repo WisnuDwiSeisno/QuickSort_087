@@ -83,3 +83,7 @@ void q_short(int low, int high) {
 	// sort the list on the right of pivot using quick sort
 	q_short(j + 1, high); // langkah 13
 }
+
+void display() {
+
+}
